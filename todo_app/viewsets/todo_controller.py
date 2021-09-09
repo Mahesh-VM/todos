@@ -12,3 +12,4 @@ class TodoController(ModelViewSet):
         "put",
         "delete"
     ]
+    lookup_field = 'task_id'

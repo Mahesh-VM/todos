@@ -1,0 +1,8 @@
+# File name extensions
+.env
+*.pyc
+
+# Folders and files
+__pycache__/
+.idea
+todo
